@@ -4,7 +4,21 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "hey",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -33,11 +47,11 @@
 	},
 	"sources": {
 		"hello.sol": {
-			"keccak256": "0xcfa513985f0b35af7609368f9101532f86396752dfc3c9e588dd71e27c2090fd",
+			"keccak256": "0x3ca6917e726702731c3218880bccd08dd84c46fc06a9b5638f791a7a0d8bb22b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e8bf756dbd624dd09f686c5d146422f416ac704514d6fb159abf71d1c0dec870",
-				"dweb:/ipfs/QmSfj8vhJuP3h5MkHD3SiyDojLPysDyhFGmtVzv8uF6ux2"
+				"bzz-raw://c8da8fbb8a6eba5a64660eea8390bdb572b54019344a28b48182f7b532079945",
+				"dweb:/ipfs/QmcnU2kxmKDbXyc4gJN8CaQBzPMBWtNzmzjkkWdqFpo8fa"
 			]
 		}
 	},

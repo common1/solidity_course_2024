@@ -9,3 +9,5 @@ Master Solidity Programming Language Course | The Complete Solidity Course 2022 
 https://www.youtube.com/watch?v=HfRrcp2CIvY&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck
 ```
 
+## 05 Write Your First Solidity Smart Contract | Complete Solidity Programming Language Course
+https://www.youtube.com/watch?v=3Fr4UdCyQVE&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=5

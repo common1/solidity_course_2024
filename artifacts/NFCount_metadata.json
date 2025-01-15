@@ -6,31 +6,20 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "string",
-						"name": "_hey",
-						"type": "string"
-					},
-					{
-						"internalType": "uint256",
-						"name": "_no",
-						"type": "uint256"
-					}
-				],
-				"name": "addInfo",
+				"inputs": [],
+				"name": "addNFT",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "hey",
+				"name": "checkTotalNFT",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256",
 						"name": "",
-						"type": "string"
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
@@ -38,7 +27,14 @@
 			},
 			{
 				"inputs": [],
-				"name": "no",
+				"name": "decreaseNFT",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "numberOfNFT",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -63,7 +59,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"firstApp.sol": "MyFirstContract"
+			"firstApp.sol": "NFCount"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -78,11 +74,11 @@
 	},
 	"sources": {
 		"firstApp.sol": {
-			"keccak256": "0xc8f4cb7b538e253ec6491736580bdb0bae7bccfb782893b1ce7b3d3a2934550c",
+			"keccak256": "0xddbeee6131d461a427ebd9bcf03eb48dcc58c4adbe4409a010067c672852e9be",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://61a1c762ed719216b7f2c2f873b758af99eae083c65a757581b71f9242820623",
-				"dweb:/ipfs/QmesgWn2AydDprUve5FBGGQe11LKMrakaodd2L67hYgaXM"
+				"bzz-raw://686960a7af94a83065dd265ddaa9b965d576a805c6e3bb9a105b5f5bd12d7a5a",
+				"dweb:/ipfs/QmZxUixJhx7jEp87RLg7pAK2Zu6NfYhuhxRbWn4pdZdEzB"
 			]
 		}
 	},

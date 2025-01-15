@@ -63,7 +63,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"firstApp.sol": "MyFirstContract"
+			"firstApp.sol": "NFC"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -78,11 +78,11 @@
 	},
 	"sources": {
 		"firstApp.sol": {
-			"keccak256": "0xc8f4cb7b538e253ec6491736580bdb0bae7bccfb782893b1ce7b3d3a2934550c",
+			"keccak256": "0x62fa1c63fb077492e2ef0e225bfa8ea55fcbba5dff31a8ffa658e1671abafced",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://61a1c762ed719216b7f2c2f873b758af99eae083c65a757581b71f9242820623",
-				"dweb:/ipfs/QmesgWn2AydDprUve5FBGGQe11LKMrakaodd2L67hYgaXM"
+				"bzz-raw://9520048a44287874dfc9ffa216539ade64d261a546f8516763e35e756652bb63",
+				"dweb:/ipfs/QmPSxyZ5YCKFW5LABMNS2B5JwkqQx8MydMvRfaED8KA2UH"
 			]
 		}
 	},

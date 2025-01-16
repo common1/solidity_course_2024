@@ -28,3 +28,6 @@ https://www.youtube.com/watch?v=xYxu8-hL0RU&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 11 Global Variables In Solidity | Complete Solidity Course 2022
 https://www.youtube.com/watch?v=cPKcPa8cUUg&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=11
 
+## 12 View In Solidity | Complete Solidity Course 2022
+https://www.youtube.com/watch?v=MIsL7AVub6M&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=12
+

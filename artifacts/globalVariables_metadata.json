@@ -6,39 +6,31 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
+				"inputs": [],
+				"name": "local",
+				"outputs": [
 					{
-						"internalType": "string",
-						"name": "_hey",
-						"type": "string"
+						"internalType": "address",
+						"name": "",
+						"type": "address"
 					},
 					{
 						"internalType": "uint256",
-						"name": "_no",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
 						"type": "uint256"
 					}
 				],
-				"name": "addInfo",
-				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "hey",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "no",
+				"name": "myNumber",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -63,7 +55,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"hello.sol": "MyFirstContract"
+			"globalVariables.sol": "globalVariables"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -77,12 +69,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"hello.sol": {
-			"keccak256": "0xc8f4cb7b538e253ec6491736580bdb0bae7bccfb782893b1ce7b3d3a2934550c",
+		"globalVariables.sol": {
+			"keccak256": "0xf85341eb82ffd55367ee4ab405f45ce9321dac991b6b19d45a2f541ca9b8842f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://61a1c762ed719216b7f2c2f873b758af99eae083c65a757581b71f9242820623",
-				"dweb:/ipfs/QmesgWn2AydDprUve5FBGGQe11LKMrakaodd2L67hYgaXM"
+				"bzz-raw://e7abae54226b71582ebe6016cf3a96c24b781015f8322ed043ad362dd258a628",
+				"dweb:/ipfs/QmaNWTjDY6VYpPsAXxugbdYxHUWNedKoVgZRSXBtrMABpp"
 			]
 		}
 	},

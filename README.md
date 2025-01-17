@@ -55,3 +55,6 @@ https://www.youtube.com/watch?v=Ih-rbpOqTN0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 20 Require Error Handler In Solidity | Require Statement | Complete Solidity Course 2022
 https://www.youtube.com/watch?v=OZ-KVFhiwlg&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=20
 
+## 21 Assert Error Handler In Solidity | Assert Statement | Complete Solidity Course 2022
+https://www.youtube.com/watch?v=VpIGLsSJkbM&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=21
+

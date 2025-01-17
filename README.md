@@ -61,3 +61,6 @@ https://www.youtube.com/watch?v=VpIGLsSJkbM&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 22 Revert Error Handler In Solidity | Revert Statement | Complete Solidity Course 2022
 https://www.youtube.com/watch?v=WCydLF6eyTg&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=22
 
+## 23 Modifier In solidity | How to create Modifiers In Solidity | Complete Solidity Course 2022
+https://www.youtube.com/watch?v=KZGm1LIYnlk&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=23
+

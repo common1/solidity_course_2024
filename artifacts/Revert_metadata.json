@@ -43,7 +43,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"revertError.sol": "Revert"
+			"functionModifier.sol": "Revert"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -57,7 +57,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"revertError.sol": {
+		"functionModifier.sol": {
 			"keccak256": "0xcf16937cdf10ba32dee301f7d07e0657a8c9c9fc659fdc11aae2dbc8c6012dfb",
 			"license": "MIT",
 			"urls": [

@@ -64,7 +64,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ifelse.sol": "IfElse"
+			"whileloop.sol": "IfElse"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -78,7 +78,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"ifelse.sol": {
+		"whileloop.sol": {
 			"keccak256": "0x9b279a948f1550ede384e4d868aa376f7d3f8a0d65b9f8d39222cd8119965a9c",
 			"license": "MIT",
 			"urls": [

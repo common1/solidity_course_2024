@@ -37,3 +37,6 @@ https://www.youtube.com/watch?v=H1AXyAIsl0c&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 14 Event Tickets Smart Contract in Solidity | Complete Solidity Course 2022
 https://www.youtube.com/watch?v=KcD6je2TfXQ&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=14
 
+## 15 Constant In Solidity | Complete Solidity Course 2022
+https://www.youtube.com/watch?v=KS7R9z0wqMo&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=15
+

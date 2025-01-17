@@ -49,3 +49,6 @@ https://www.youtube.com/watch?v=lcu9ZS1uEg4&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 18 Do While Loop In Solidity Programming Language | Complete Solidity Course 2022
 https://www.youtube.com/watch?v=bpI12WGdjjw&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=18
 
+## 19 For Loop In Solidity Programming Language | Complete Solidity Course 2022
+https://www.youtube.com/watch?v=Ih-rbpOqTN0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=19
+

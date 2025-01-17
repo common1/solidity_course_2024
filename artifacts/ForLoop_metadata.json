@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"forloop.sol": "DoWhile"
+			"forloop.sol": "ForLoop"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"forloop.sol": {
-			"keccak256": "0xef02e9458e93bb83a213f57f7887b2569dc0646782db832de53e2802d3ee018c",
+			"keccak256": "0x70d8b5ae417ee551c289acf225623a2481547394a97a4f79749df6e6fe2d4500",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1b61fbd392619494c6a8b193d7acf053beb4be5260a3dad67b8b8ffbf7fa1b8d",
-				"dweb:/ipfs/Qmf23iFeM8eX5nG6CXCoBwufqc7jTe8aGann2tQFYqDFpb"
+				"bzz-raw://1618012773f040748812230e83c605a3b0b17ad2c49c6f0c6603bdb99bef02a9",
+				"dweb:/ipfs/QmWCYUKHAYweYvVRZ6tWgbCm93MXGcSZ9ERMQDRXcQ9ndp"
 			]
 		}
 	},

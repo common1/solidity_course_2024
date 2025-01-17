@@ -6,18 +6,38 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"name": "getData",
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_input",
+						"type": "uint256"
+					}
+				],
+				"name": "Odd",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "bool",
 						"name": "",
-						"type": "uint256"
-					},
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "",
+						"name": "_input",
 						"type": "uint256"
+					}
+				],
+				"name": "checkInput",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
 					}
 				],
 				"stateMutability": "pure",
@@ -37,7 +57,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"pure.sol": "Pure"
+			"requireError.sol": "Require"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -51,12 +71,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"pure.sol": {
-			"keccak256": "0x9f167bae903551ede6e3f813581dc3855087dddf076eb8a7997eaf9d02cba8bb",
+		"requireError.sol": {
+			"keccak256": "0xdf7895cd425301268eed5c446b8da60a52e0796a3ea2855aecdbbd2109b79e6c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://22d6ef9fee4cea5fd0898240d9df3cf71c726aefeaf63171845a3c29faa6c899",
-				"dweb:/ipfs/Qmbk4UbFPxeCEhgrk52xfRPKpLY6cU9dWxy2QUwAP7zbpd"
+				"bzz-raw://ce19b561e84c5d801f89ccf36c6259cab199506d9fbd6e8caff1018b881ecb63",
+				"dweb:/ipfs/QmeAdJWfGWXaT7VLD9WuYr5iaQ9tMV4Y7ebX3KhCLXE1Y1"
 			]
 		}
 	},

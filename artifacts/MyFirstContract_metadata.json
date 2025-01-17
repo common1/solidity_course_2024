@@ -4,52 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [
-					{
-						"internalType": "string",
-						"name": "_hey",
-						"type": "string"
-					},
-					{
-						"internalType": "uint256",
-						"name": "_no",
-						"type": "uint256"
-					}
-				],
-				"name": "addInfo",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "hey",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "no",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -63,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"hello.sol": "MyFirstContract"
+			"contract.sol": "MyFirstContract"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -77,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"hello.sol": {
-			"keccak256": "0xc8f4cb7b538e253ec6491736580bdb0bae7bccfb782893b1ce7b3d3a2934550c",
+		"contract.sol": {
+			"keccak256": "0xecbb56e4445fa55b6586d788dabdaa0f39aaa1e13ec0d4ef0dec15a64daa03f4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://61a1c762ed719216b7f2c2f873b758af99eae083c65a757581b71f9242820623",
-				"dweb:/ipfs/QmesgWn2AydDprUve5FBGGQe11LKMrakaodd2L67hYgaXM"
+				"bzz-raw://2563a1a9bd289198374b95aa49c1ef98b99d174e765a86f711f8ad477820315f",
+				"dweb:/ipfs/QmauSMs8ecV79FNWsz27TiaB8FKzdfnESZLMDtcr4auJiJ"
 			]
 		}
 	},

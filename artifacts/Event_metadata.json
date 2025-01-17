@@ -37,7 +37,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"eventTicket.sol": "Pure"
+			"eventTicket.sol": "Event"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -52,11 +52,11 @@
 	},
 	"sources": {
 		"eventTicket.sol": {
-			"keccak256": "0x9f167bae903551ede6e3f813581dc3855087dddf076eb8a7997eaf9d02cba8bb",
+			"keccak256": "0xd96c060a3c962e055fee43a281b0a9067d7f1f2b00d153cac05e672575dafa9b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://22d6ef9fee4cea5fd0898240d9df3cf71c726aefeaf63171845a3c29faa6c899",
-				"dweb:/ipfs/Qmbk4UbFPxeCEhgrk52xfRPKpLY6cU9dWxy2QUwAP7zbpd"
+				"bzz-raw://86ec96395887dfb61d2260396084ca29ad460abbe1d49e808df0a91159927a4b",
+				"dweb:/ipfs/QmYt23PXSpctdtW8X5K9FKx23NHRXPnu6yumcyBpzocY8x"
 			]
 		}
 	},

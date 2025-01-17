@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"dowhileloop.sol": "WhileLoop"
+			"dowhileloop.sol": "DoWhileLoop"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"dowhileloop.sol": {
-			"keccak256": "0x8af9d5e5fc3bd176bea5ce37da49e8ac22f0635f551fb0c1c0807f649e1d8173",
+			"keccak256": "0x73b077cb0a5057147e73c352aac109b93a253f1ec06434d19db2e0e8bfa0660d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e1cd361e158d0a30394376ec6ceac0d588147bbe0996e2896f19a6766c12a2b5",
-				"dweb:/ipfs/QmRuU2j2WiLgWaxji77eCkJqDwvrdDvUJpCNcFqjfVcbFz"
+				"bzz-raw://7ee18a33f79c10d0ca9105c5f3a53d8bec0c29a77684e0e3485606799cf0ad61",
+				"dweb:/ipfs/QmVcXXeUpHYUGwaSKMavQfHgsGPDuyN81wCpxWPQ2EroBD"
 			]
 		}
 	},

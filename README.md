@@ -67,3 +67,6 @@ https://www.youtube.com/watch?v=KZGm1LIYnlk&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 24 Solidity Constructor | How To Use Solidity Constructor Function | Complete Solidity Course
 https://www.youtube.com/watch?v=jT6tq6nprY0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=24
 
+## 25 Solidity Mapping | How To Use & Create Solidity Mapping Smart Contract | Complete Solidity Course
+https://www.youtube.com/watch?v=zeBwcVfr-9Y&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=25
+

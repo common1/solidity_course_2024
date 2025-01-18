@@ -4,21 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "loop",
-				"outputs": [
-					{
-						"internalType": "uint256[]",
-						"name": "",
-						"type": "uint256[]"
-					}
-				],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -32,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"forloop.sol": "DoWhile"
+			"mapping.sol": "DoWhile"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"forloop.sol": {
-			"keccak256": "0xef02e9458e93bb83a213f57f7887b2569dc0646782db832de53e2802d3ee018c",
+		"mapping.sol": {
+			"keccak256": "0x2dd4e3cba48b22c176721496c417ce58c7690565ee9e778ad9debd60b3047f42",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1b61fbd392619494c6a8b193d7acf053beb4be5260a3dad67b8b8ffbf7fa1b8d",
-				"dweb:/ipfs/Qmf23iFeM8eX5nG6CXCoBwufqc7jTe8aGann2tQFYqDFpb"
+				"bzz-raw://5d5d1ee066150ea77a264afd7b7918ebcc9ea0071619eac5926660f224fd9e1f",
+				"dweb:/ipfs/QmcH9Bzka1te4vnjfyR7SxMWCc7VG2MZkD2fGZ7BBBRrCi"
 			]
 		}
 	},

@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Event.sol": "DataLocations"
+			"Event.sol": "Ev"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Event.sol": {
-			"keccak256": "0xe32235a49a7e9a964521b4b4090baf9f7e54115da627765cc24b1400d0199761",
+			"keccak256": "0xc671caf99ad3ebfbc9615e70cb3910bab17cb9d3c53f0ae3736c4260fc1ef634",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3e423383f3d1a909e08499e78706fa4c2a927fa3f1777eda71ac078520b8d57e",
-				"dweb:/ipfs/QmXsFRCTgWGaNJxF3qJiyMbWy9aFZyraTw3PSvNEX2snvr"
+				"bzz-raw://a08d36a6c5784ac441a3af986080d9d50900b9e20d380851e598598200ddf04f",
+				"dweb:/ipfs/QmRsa3skfTWKcrZBnXqNNxuu4BmMfKd58Dpu2XjUynLBYL"
 			]
 		}
 	},

@@ -6,21 +6,35 @@
 	"output": {
 		"abi": [
 			{
+				"anonymous": false,
 				"inputs": [],
-				"name": "getData",
-				"outputs": [
+				"name": "AnotherLog",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
 					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
+						"indexed": true,
+						"internalType": "address",
+						"name": "sender",
+						"type": "address"
 					},
 					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
 					}
 				],
-				"stateMutability": "pure",
+				"name": "Log",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -37,7 +51,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"eventTicket.sol": "Event"
+			"Event.sol": "Event"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -51,12 +65,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"eventTicket.sol": {
-			"keccak256": "0xd96c060a3c962e055fee43a281b0a9067d7f1f2b00d153cac05e672575dafa9b",
+		"Event.sol": {
+			"keccak256": "0x71d6b34145574e25b2fdab09d405a09d5396c83044a005b8e27654db1ad4721e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://86ec96395887dfb61d2260396084ca29ad460abbe1d49e808df0a91159927a4b",
-				"dweb:/ipfs/QmYt23PXSpctdtW8X5K9FKx23NHRXPnu6yumcyBpzocY8x"
+				"bzz-raw://c8e8a4617d2cc5be6d27858e6d673617ca23514e4912bc69e4b3c0cd8645262d",
+				"dweb:/ipfs/QmeVpF1JFMHeXhsKBaZXXZobNWrDCwSv3KrTNDhqSUBnjB"
 			]
 		}
 	},

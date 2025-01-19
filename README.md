@@ -97,3 +97,6 @@ https://www.youtube.com/watch?v=KwBhLYjoCE0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 34 Solidity Function | How To Create Function In Solidity Smart Contract | Complete Solidity Course
 https://www.youtube.com/watch?v=axWKdWTqOx8&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=34
 
+## 35 Solidity Events | How To Create Events In Solidity Smart Contract | Complete Solidity Course
+https://www.youtube.com/watch?v=_H69dqzteog&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=35
+

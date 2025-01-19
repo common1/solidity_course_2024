@@ -75,3 +75,7 @@ https://www.youtube.com/watch?v=V-OBmrlg8wk&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ## 27 Array Remove By Shifting In Solidity | How To Remove Array Element In Solidity | Solidity Course
 https://www.youtube.com/watch?v=ThoabOGcrmk&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=27
+
+## 28 Replace Array From End | How To Replace Array From END In Solidity Smart Contract | Solidity Course
+https://www.youtube.com/watch?v=8KWKpr4oC7c&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=28
+

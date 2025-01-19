@@ -4,150 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "arr",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "arr2",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "examples",
-				"outputs": [],
-				"stateMutability": "pure",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "i",
-						"type": "uint256"
-					}
-				],
-				"name": "get",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "getArr",
-				"outputs": [
-					{
-						"internalType": "uint256[]",
-						"name": "",
-						"type": "uint256[]"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "getLength",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "myFixedSizeArra",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "pop",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "i",
-						"type": "uint256"
-					}
-				],
-				"name": "push",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "index",
-						"type": "uint256"
-					}
-				],
-				"name": "remove",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -161,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"array.sol": "Array"
+			"arrayRemove.sol": "Array"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -175,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"array.sol": {
-			"keccak256": "0x786bcc4a29a2d4c8b92a24e54b61eb869e87013369d43a9d1eed25e52af770d3",
+		"arrayRemove.sol": {
+			"keccak256": "0xa1c87c77566e99cf3031bea6522f3931293ce515e72809d68273a8b5b5a52e06",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bcde4f2152495c269217b7e306d458959779b161e6c267487527ee46f0cf0cc7",
-				"dweb:/ipfs/QmQizR86XR4m4KwTAYAXLmCBqxvqggsJR6Yv998RfSy5wo"
+				"bzz-raw://915299b9e6de49214c58480b6275bc0810f71529c630d1f1238bb97960487f97",
+				"dweb:/ipfs/QmTcVj7iwC8HUuTbAFaPecsgwJw9UfcRfaGK3LZv3Lkg3c"
 			]
 		}
 	},

@@ -4,21 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "loop",
-				"outputs": [
-					{
-						"internalType": "uint256[]",
-						"name": "",
-						"type": "uint256[]"
-					}
-				],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -32,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"structs.sol": "WhileLoop"
+			"structs.sol": "Struct"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -47,11 +33,11 @@
 	},
 	"sources": {
 		"structs.sol": {
-			"keccak256": "0xd0fc17e07aa0fa27eda437757b248868381196f67ee8e53f51be20fd825c8037",
+			"keccak256": "0x17fb0879add7ea47959370be03ab5c329962bd2f0acb2b2df5f3ffdebcfea030",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://354615a0a5167143cbe9db3b09bb3d13b2c367de7b76dfa6a15c93ba2d858a76",
-				"dweb:/ipfs/QmZQvubN1CcXpHa1gZcuwRKcAZwepUvBuDVZC9kWCnuVyf"
+				"bzz-raw://4677dba7d7522da07195f3520734c175670cd31a12d17f84bc196508a4966dd5",
+				"dweb:/ipfs/QmR1NW8qmSJoK8qZ1tT6ALiQxYtq6724zND7HxYLFsNYcA"
 			]
 		}
 	},

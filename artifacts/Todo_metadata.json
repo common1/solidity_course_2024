@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"todo.sol": "View"
+			"StructDclaration.sol": "Todo"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"todo.sol": {
-			"keccak256": "0x6f8d0094eb3fcccdb17586f5267e6c71e28a94f0d2a173961362afddfac4adfb",
+		"StructDclaration.sol": {
+			"keccak256": "0x04506f0ef5629df079d41a185450ab27f31e1783ada4157ab45bf8fd45f14213",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://fd630249aa58c03a6cfc84862a6fae310f15165f9eccf2f8f5656484c56a5172",
-				"dweb:/ipfs/QmQXCoKqqyXv7pJXKoUeNGcowkJ4SLLgQFoFdmPK5GL5Ys"
+				"bzz-raw://353d2a63508002c78e38060ae070c23938f0b14d558198650067d9d6dcc5105c",
+				"dweb:/ipfs/QmPGLAqAMDrFmYjU6BUatAGVnkefpvZGr1e7F2s53HFhcc"
 			]
 		}
 	},

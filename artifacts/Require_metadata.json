@@ -4,7 +4,46 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_input",
+						"type": "uint256"
+					}
+				],
+				"name": "Odd",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_input",
+						"type": "uint256"
+					}
+				],
+				"name": "checkInput",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +57,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"assertError.sol": "Require"
+			"requireError.sol": "Require"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +71,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"assertError.sol": {
-			"keccak256": "0xe8dc8ba32216b0f56154acdaffb15bd6685da729ed54848c330a81efe29e5715",
+		"requireError.sol": {
+			"keccak256": "0xdf7895cd425301268eed5c446b8da60a52e0796a3ea2855aecdbbd2109b79e6c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4c35c2db38049306be7255ebfcd749c23dad6c4fa41ad8820d37e306dd07fc67",
-				"dweb:/ipfs/QmVPfLnL1EdZFvtV4ZLHSmNSoZpH7USxmfB7F9GJvCf8Gf"
+				"bzz-raw://ce19b561e84c5d801f89ccf36c6259cab199506d9fbd6e8caff1018b881ecb63",
+				"dweb:/ipfs/QmeAdJWfGWXaT7VLD9WuYr5iaQ9tMV4Y7ebX3KhCLXE1Y1"
 			]
 		}
 	},

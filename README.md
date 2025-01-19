@@ -88,3 +88,6 @@ https://www.youtube.com/watch?v=5Pq7qpb9jKM&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 31 Solidity Structs | How To Use & Create Solidity Structs | Complete Solidity Course
 https://www.youtube.com/watch?v=FobxFdDvFUU&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=31
 
+## 32 Import Structs In Solidity Smart Contract | How To Use Import Struct In Solidity | Solidity Course
+https://www.youtube.com/watch?v=nE0_5-KqZbc&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=32
+

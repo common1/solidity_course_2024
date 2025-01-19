@@ -50,7 +50,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"assertError.sol": "Assert"
+			"array.sol": "Assert"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -64,7 +64,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"assertError.sol": {
+		"array.sol": {
 			"keccak256": "0xad1a9d8d1344a6c9f3052384139f0c782e5eebdd479fe3fcf84d16a833edd1cb",
 			"license": "MIT",
 			"urls": [

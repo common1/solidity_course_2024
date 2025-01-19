@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"datalocations.sol": "DataTypes"
+			"datalocations.sol": "Dat"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"datalocations.sol": {
-			"keccak256": "0xc3f11adf96b6222257dcab1b0f9a90cf8a90266efdd96685e5b6c12e709f9d18",
+			"keccak256": "0x543491a1d4661be08fe35cc7df04011b0a3aff3d3173bc44ff1f205d2f2756e9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://661d592ccfe6e0d55eff233d3bbf9fd1400f0b888851b8f466b4d279348e98bc",
-				"dweb:/ipfs/QmWCTggFeUvUzHbdHrd2E1QiiqcWmFAAnvsKHTCu9v6Cnh"
+				"bzz-raw://814a63843e6a759b89928325cb4c17aca148315c76625a7250faa0e41e074787",
+				"dweb:/ipfs/Qmduvn5smhRb41qLu9B5bgypfkuZWjtEYQV1DVPe8nJQp7"
 			]
 		}
 	},

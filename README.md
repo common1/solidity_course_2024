@@ -91,3 +91,6 @@ https://www.youtube.com/watch?v=FobxFdDvFUU&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 32 Import Structs In Solidity Smart Contract | How To Use Import Struct In Solidity | Solidity Course
 https://www.youtube.com/watch?v=nE0_5-KqZbc&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=32
 
+## 33 Data Location In Solidity | How Solidity Data Locations - Storage, Memory and Calldata | Solidity
+https://www.youtube.com/watch?v=KwBhLYjoCE0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=33
+

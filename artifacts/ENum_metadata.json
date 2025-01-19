@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"EnumDeclaration.sol": "E"
+			"EnumDeclaration.sol": "ENum"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"EnumDeclaration.sol": {
-			"keccak256": "0x6991d89dd5a85eedec032083dfceb10c4f2a042b24463526863f9598656c6426",
+			"keccak256": "0x01d5cf1470c47431c3cd28066d7d1259682f51f74df9ad5c32ec0d8657b0b570",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c1f92721b91f57f228e9283169f02d2cc10278962878f91be3f477ff847472f3",
-				"dweb:/ipfs/QmaWHpRNpPtwcfMXsRXAxBMJrcgzzSbH7vHxNHVTvLrvgu"
+				"bzz-raw://c08ba5cbcc8707db8d430a65f916adb037259830147d64a2f1e576cacabcbad1",
+				"dweb:/ipfs/QmbevRLXE7db2whLKTswy5USkXQeeQNKFASgdC2sttHDY6"
 			]
 		}
 	},

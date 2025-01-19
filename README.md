@@ -82,3 +82,6 @@ https://www.youtube.com/watch?v=8KWKpr4oC7c&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 29 Enum In Solidity | How To Create & Use Enum In Solidity Smart Contract | Complete Solidity Course
 https://www.youtube.com/watch?v=YRxO-D4pJH8&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=29
 
+## 30 Import Enum In Solidity | How To Import Enum Form Smart Contract Solidity | Complete Solidity Course
+https://www.youtube.com/watch?v=5Pq7qpb9jKM&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=30
+

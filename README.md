@@ -100,3 +100,6 @@ https://www.youtube.com/watch?v=axWKdWTqOx8&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 35 Solidity Events | How To Create Events In Solidity Smart Contract | Complete Solidity Course
 https://www.youtube.com/watch?v=_H69dqzteog&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=35
 
+## 36 Solidity Inheritance | How To Create Inheritance In Solidity From Parent Contract | Solidity Course
+https://www.youtube.com/watch?v=86a0w7O6_v0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=36
+

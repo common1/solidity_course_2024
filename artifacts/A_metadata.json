@@ -4,7 +4,21 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "foo",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"inheritance.sol": "IfElse"
+			"inheritance.sol": "A"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +47,11 @@
 	},
 	"sources": {
 		"inheritance.sol": {
-			"keccak256": "0x9b4b7e0b7314f98774f211f5ae3351692a71cd053df1cf76331da209d1530bed",
+			"keccak256": "0x73ee011860169001963dae06ee3dd534349882fd45f84ec5ccd7b77a13a3ad3b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a66ff8e0ed3948141068e503fd7f78a6fb00383d17045f19390a0b6ec686e919",
-				"dweb:/ipfs/QmacXzsnD4RgXp8ULW5CeJAjFhkK462JU5ashEaimMuNDD"
+				"bzz-raw://e174a9df02158a40c79481ed83a97e322a45e8b15bd34125e791363ca5b2e682",
+				"dweb:/ipfs/QmR4tYTuR2Xvtfb2Gmcp8K9QSa2WDfYFotansxa5uz5auC"
 			]
 		}
 	},

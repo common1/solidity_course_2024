@@ -4,39 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "name",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "text",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -50,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contract.sol": "E"
+			"enum.sol": "E"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -64,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contract.sol": {
-			"keccak256": "0x18e68be5183b737e773132f2e88d1b05f7f0e9947e10e8412b9e28e0a4424fdc",
+		"enum.sol": {
+			"keccak256": "0x113ba30438ef312515f3c5ee9837ecea10ec7ace4f258647ce106445c6d35c79",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://fbfa32f4e1c8e4b6485816e1bc3e70539d5b5b92e0029d397ebeafa5316d8828",
-				"dweb:/ipfs/QmVSSimRVYQQ7771ZMTjbspgXN6GSRs5fqxD1PoZq9Dutu"
+				"bzz-raw://332be13806a249899ac2883bf99a377dbc60af8bc176019e9b160f2bb1960de6",
+				"dweb:/ipfs/QmYJF3ha76HPJZEcSG9un6761bSNBJfym6awMN6z8gBcfq"
 			]
 		}
 	},

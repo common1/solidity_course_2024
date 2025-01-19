@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"arrayRemove.sol": "Array"
+			"enum.sol": "Array"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,7 +32,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"arrayRemove.sol": {
+		"enum.sol": {
 			"keccak256": "0xa1c87c77566e99cf3031bea6522f3931293ce515e72809d68273a8b5b5a52e06",
 			"license": "MIT",
 			"urls": [

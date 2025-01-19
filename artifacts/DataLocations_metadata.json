@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"datalocations.sol": "DataLocations"
+			"Function.sol": "DataLocations"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -85,7 +85,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"datalocations.sol": {
+		"Function.sol": {
 			"keccak256": "0x971eb8ea42aa15efafc89d325d4399a5a5e4f8cc4c8c646390f8152bc41788f4",
 			"license": "MIT",
 			"urls": [

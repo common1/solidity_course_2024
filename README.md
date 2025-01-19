@@ -94,3 +94,6 @@ https://www.youtube.com/watch?v=nE0_5-KqZbc&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 33 Data Location In Solidity | How Solidity Data Locations - Storage, Memory and Calldata | Solidity
 https://www.youtube.com/watch?v=KwBhLYjoCE0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=33
 
+## 34 Solidity Function | How To Create Function In Solidity Smart Contract | Complete Solidity Course
+https://www.youtube.com/watch?v=axWKdWTqOx8&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=34
+

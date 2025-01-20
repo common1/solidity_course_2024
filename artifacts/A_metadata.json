@@ -15,7 +15,7 @@
 						"type": "string"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "pure",
 				"type": "function"
 			}
 		],
@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"inheritance.sol": {
-			"keccak256": "0x73ee011860169001963dae06ee3dd534349882fd45f84ec5ccd7b77a13a3ad3b",
+			"keccak256": "0x1b4a95877768cbe7dfbe61f6456486a92936c3014e8ce64c8e3b6c2f032913aa",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e174a9df02158a40c79481ed83a97e322a45e8b15bd34125e791363ca5b2e682",
-				"dweb:/ipfs/QmR4tYTuR2Xvtfb2Gmcp8K9QSa2WDfYFotansxa5uz5auC"
+				"bzz-raw://7c8b3491adeef0dddb160963e89c1e875aa1827bc25a35b2f1684e5422eb2532",
+				"dweb:/ipfs/QmTPezr13wbXNTyKXHvp5BKYczf172XmJoF8JYKuDYb68Y"
 			]
 		}
 	},

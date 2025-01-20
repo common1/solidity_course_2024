@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"structs.sol": "WhileLoop"
+			"whileloop.sol": "WhileLoop"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,7 +46,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"structs.sol": {
+		"whileloop.sol": {
 			"keccak256": "0xd0fc17e07aa0fa27eda437757b248868381196f67ee8e53f51be20fd825c8037",
 			"license": "MIT",
 			"urls": [

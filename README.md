@@ -106,3 +106,6 @@ https://www.youtube.com/watch?v=86a0w7O6_v0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 37 Solidity Shadowing Inherited State Variables | Complete Solidity Course For Beginners 2022
 https://www.youtube.com/watch?v=fiKpLdIY61Q&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=37
 
+## 38 Solidity Super Keyword | How To Create & Use Super Keyword In Solidity Contract | Solidity Course
+https://www.youtube.com/watch?v=4eHHlPNN0W4&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=38
+

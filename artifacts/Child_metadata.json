@@ -84,7 +84,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"visibility.sol": "Child"
+			"interface.sol": "Child"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -98,7 +98,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"visibility.sol": {
+		"interface.sol": {
 			"keccak256": "0x05220d95bcbccd5d10a396eb7c5d842c53aedc74c9157753389af7ca678da47d",
 			"license": "MIT",
 			"urls": [

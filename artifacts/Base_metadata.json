@@ -4,73 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "externalFunc",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "pure",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "publicFunc",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "pure",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "publicVar",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "testInternalFunc",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "pure",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "testPrivateFunc",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "pure",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -84,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"visibility.sol": "Base"
+			"interface.sol": "Base"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -98,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"visibility.sol": {
-			"keccak256": "0x05220d95bcbccd5d10a396eb7c5d842c53aedc74c9157753389af7ca678da47d",
+		"interface.sol": {
+			"keccak256": "0x55244d74e34eb1bffa0e6192e79087a62c04a32bfdde1f2eca49780da054688f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3948a93fd2b0d63fd6413220ea91f9d1aefe1f6a43ac1c371a0d533c40b2e0ed",
-				"dweb:/ipfs/QmTj7he26tBTSBfKpstdPCwVt9D2L282ysvW2vuqPBDshG"
+				"bzz-raw://67b009f230e4cdc3758d4771b1e6fbc4f465f741e866965a129f031a6ebbabca",
+				"dweb:/ipfs/QmTfD4uRZbQ8RW2eJVak5r4mFd9D6eNJKew3rFjYWfCDJR"
 			]
 		}
 	},

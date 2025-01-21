@@ -111,3 +111,7 @@ https://www.youtube.com/watch?v=4eHHlPNN0W4&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ## 39 Solidity Visibility | How To Create & Use Visibility In Solidity Contract | Solidity Course 2022
 https://www.youtube.com/watch?v=16qPyg9d5gM&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=39
+
+## 40 Solidity Interface | How To Create & Use Solidity Interface In Contract | Solidity Course 2022
+https://www.youtube.com/watch?v=s5huAqjyg1w&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=40
+

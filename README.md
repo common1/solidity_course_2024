@@ -109,3 +109,5 @@ https://www.youtube.com/watch?v=fiKpLdIY61Q&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 ## 38 Solidity Super Keyword | How To Create & Use Super Keyword In Solidity Contract | Solidity Course
 https://www.youtube.com/watch?v=4eHHlPNN0W4&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=38
 
+## 39 Solidity Visibility | How To Create & Use Visibility In Solidity Contract | Solidity Course 2022
+https://www.youtube.com/watch?v=16qPyg9d5gM&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=39

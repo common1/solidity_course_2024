@@ -46,7 +46,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"SuperKeyword.sol": "C"
+			"visibility.sol": "C"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -60,12 +60,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"SuperKeyword.sol": {
-			"keccak256": "0xefb7b69c179a3cfe7c187c698700bc4762794a748051d399f5f4d058c800a878",
+		"visibility.sol": {
+			"keccak256": "0x400be42bf3ada6a0aae7bafa107a6b1b20c580dd6d520501ddcf942d64b8d237",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7ae8d76b72ceef10726200c0464dfffa877d05eaf9ac5f2646e05664e317b42f",
-				"dweb:/ipfs/QmX4JFKMLL4A2oUyrXd4tdfDjbBHo9DoBcHrmW5FQp7iYz"
+				"bzz-raw://bfb534c2ef198107455fa2554f78a0654cfafc00e95762f39a63b665605e5831",
+				"dweb:/ipfs/QmRvGDYryUydWbUNag3Y3Yyj7Ke3aDqR4Nkt83x9T8uFK2"
 			]
 		}
 	},

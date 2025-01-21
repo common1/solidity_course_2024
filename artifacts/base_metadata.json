@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"visibility.sol": "A"
+			"visibility.sol": "base"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"visibility.sol": {
-			"keccak256": "0x64e5274950fa5c66d8f2197915ef9376ece80f8a11df6037690391cedde88674",
+			"keccak256": "0x45099ef9344a55a436900b4bed4e7da779ce8308d3bb996359d371d694c8857e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ae2d4f9c893629bab4e0412ec5a17c6ae758af30349674b7ab48fcac1f723f33",
-				"dweb:/ipfs/QmbPQMieKcSBu7XjRNPB3Bt82KFwnAciBmp1YTUbATXb1V"
+				"bzz-raw://f44cacb7b4e5c13a0efd70db6403a9a62f035ea122c72ee7b54f2f85d56c2a92",
+				"dweb:/ipfs/QmcpjThQZrh1No7xhnAZHsFBaCK6JMsDCiRCQV9mCRScHh"
 			]
 		}
 	},
